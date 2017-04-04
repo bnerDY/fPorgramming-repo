@@ -1,3 +1,3 @@
-### sparkDashboard
+### fProgramming-repo
 - - -
-repository for spark dashboard using python
+repository for functional programming using scala or python.
