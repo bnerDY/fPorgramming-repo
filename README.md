@@ -1,3 +1,3 @@
 ### fProgramming-repo
 - - -
-repository for functional programming using scala or python.
+repository for functional programming using Scala or JavaScript.
